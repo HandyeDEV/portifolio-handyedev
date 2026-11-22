@@ -5,8 +5,8 @@ Landing page pessoal de José Marcos da Silva (HandyeDEV), feita com HTML, CSS e
 ## O que tem
 
 - Apresentação, habilidades por matéria da faculdade e serviços.
-- Projetos: Anymatch 1.5.3, folder de Hipertensão Arterial e site sobre parto e puerpério.
-- Player de slides sobre o Anymatch 1.5.3 (setas do teclado, botões, deslize no celular e tela cheia).
+- Projetos: Anymatch, folder de Hipertensão Arterial e site sobre parto e puerpério.
+- Player de slides sobre o Anymatch (setas do teclado, botões, deslize no celular e tela cheia).
 - Folder em sanfona com os 6 painéis, ligado ao repositório do folder.
 - Tema claro e escuro, layout responsivo e navegação por teclado.
 
