@@ -235,3 +235,30 @@ body { background: radial-gradient(800px 500px at 10% -5%, rgba(34,211,238,.18),
 .chips li { background: rgba(255,255,255,.05); }
 .player, .sanfona { border-radius: 26px; }
 .rodape { border: 0; }
+
+/* AJUSTES PARA CELULAR */
+@media (max-width: 860px) {
+  .topo { position: static; margin: 10px auto 0; border-radius: 22px; }
+  .topo-in { min-height: 0; padding: 10px 14px; gap: 6px; }
+  nav { margin-inline: -4px; }
+  .menu { flex-wrap: wrap; overflow: visible; gap: 2px; }
+  .menu a { padding: .3rem .6rem; font-size: .88rem; min-height: 34px; display: flex; align-items: center; line-height: 1.2; }
+}
+@media (max-width: 560px) {
+  .wrap { width: calc(100% - 24px); }
+  .hero { padding-block: 20px 28px; }
+  .hero-txt, .janela { border-radius: 22px; }
+  .hero-txt { padding: 20px 18px; }
+  h1 { font-size: clamp(1.7rem, 8vw, 2.1rem); line-height: 1.18; }
+  h2 { font-size: 1.45rem; }
+  .lead { font-size: 1rem; }
+  .sec { padding-block: 36px; }
+  .acoes { gap: 10px; }
+  .acoes .btn { flex: 1 1 calc(50% - 5px); justify-content: center; text-align: center; min-height: 46px; padding-inline: .8rem; }
+  .acoes .btn-prim, .acoes.centro .btn:nth-child(2) { flex-basis: 100%; }
+  .card, .destaque, .txt, .dois > div:first-child { padding: 18px; }
+  .grade4 strong { font-size: 2.1rem; }
+  .contato { padding: 22px 16px; }
+  .codigo { font-size: .72rem; overflow-x: auto; }
+  .rodape .wrap { flex-direction: column; align-items: center; text-align: center; gap: 8px; padding-block: 8px; }
+}
