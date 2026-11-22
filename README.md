@@ -1,6 +1,6 @@
-# Landing page do HandyeDEV
+# Portfólio do HandyeDEV
 
-Landing page pessoal de José Marcos da Silva (HandyeDEV), feita com HTML, CSS e JavaScript puros, sem frameworks e sem etapa de build.
+Portfólio pessoal de José Marcos da Silva (HandyeDEV), feita com HTML, CSS e JavaScript puros, sem frameworks e sem etapa de build.
 
 ## O que tem
 
