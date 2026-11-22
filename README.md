@@ -5,7 +5,7 @@ Portfólio pessoal de José Marcos da Silva (HandyeDEV), feita com HTML, CSS e J
 ## O que tem
 
 - Apresentação, habilidades por matéria da faculdade e serviços.
-- Projetos: Anymatch, folder de Hipertensão Arterial e site sobre parto e puerpério.
+- Projetos: Anymatch, folder de Hipertensão Arterial e site sobre parto e puerpério e Handye Eco Finance Tool (app de finanças pessoais).
 - Player de slides sobre o Anymatch (setas do teclado, botões, deslize no celular e tela cheia).
 - Folder em sanfona com os 6 painéis, ligado ao repositório do folder.
 - Tema claro e escuro, layout responsivo e navegação por teclado.
