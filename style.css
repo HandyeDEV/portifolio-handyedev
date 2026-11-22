@@ -207,3 +207,7 @@ p { margin: 0 0 1em; }
   .slide { animation: none; }
   .btn { transition: none; }
 }
+
+.cod { font-size: .8rem; margin: .8rem 0 0; }
+.cod code { font-family: var(--mono); word-break: break-all; color: var(--ink); }
+.card .acoes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 1rem; }
